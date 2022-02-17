@@ -3,25 +3,23 @@ The metric system is used in most nations to measure height.Despite the fact tha
 
 ## Content
 The dataset contains six columns:
-• Rank
-• Country Name
-• Male height in Cm
-• Female height in Cm
-• Male height in Ft
-• Female height in Ft
+1. Rank
+2. Country Name
+3. Male height in Cm
+4. Female height in Cm
+5. Male height in Ft
+6. Female height in Ft
 
 ## Acknowledgements
 Users are allowed to use, copy, distribute and cite the dataset as follows: “Majyhain, Average Height of Male and Female by Country 2022, Kaggle Dataset, February 02, 2022.”
 
 ## Inspiration
 The ideas for this data is to:
-Average Height of Men in Countries?
-Average Height of Women in Countries?
-Height of Male and Female in Feet?
-
-Which country have the tallest male and female?
-
-Which countries have the smallest male and female average height?
+- Average Height of Men in Countries?
+- Average Height of Women in Countries?
+- Height of Male and Female in Feet?
+- Which country have the tallest male and female?
+- Which countries have the smallest male and female average height?
 
 ## References:
 The Data is collected from the following sites:
