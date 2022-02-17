@@ -1,5 +1,5 @@
 ## Context
-The metric system is used in most nations to measure height.Despite the fact that the metric system is the most widely used measurement method, we will offer average heights in both metric and imperial units for each country.To be clear, the imperial system utilises feet and inches to measure height, whereas the metric system uses metres and centimetres.Although switching between these measurement units is not difficult, countries tend to choose one over the other in order to maintain uniformity.
+The metric system is used in most nations to measure height. Despite the fact that the metric system is the most widely used measurement method, we will offer average heights in both metric and imperial units for each country. To be clear, the imperial system utilises feet and inches to measure height, whereas the metric system uses metres and centimetres. Although switching between these measurement units is not difficult, countries tend to choose one over the other in order to maintain uniformity.
 
 ## Content
 The dataset contains six columns:
@@ -22,6 +22,4 @@ The ideas for this data is to:
 - Which countries have the smallest male and female average height?
 
 ## References:
-The Data is collected from the following sites:
-
-https://ourworldindata.org/
+The Data is collected from the following sites: https://ourworldindata.org/
